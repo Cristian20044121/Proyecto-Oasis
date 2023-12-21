@@ -1,0 +1,260 @@
+
+
+
+ <div class="wave"style="heigth: 150px; overflow:hidden;"><svg viewBox="0 0 500 100"preserveAspectRatio="none"style="heigth: 100%; width: 100%;"> <path d="
+M0.00,49.98 C145.31,155.22 349.20,-50.00 500.00,49.98 L500.00,115.00 L0.00,115.00 Z" 
+style="stroke:none;fill:#fffffff3;"></path></svg></div>    
+        
+
+
+<div class="wave" style="heigth: 150px; overflow:hidden;"><svg viewBox="0 0 500 150"preserveAspectRatio="none"style="heigth: 100%; width: 100%;"> <path d="
+M0.00,49.98 C145.31,155.22 349.20,-50.00 500.00,49.98 L500.00,115.00 L0.00,115.00 Z
+"style="stroke:none;fill:#08f;"></path></svg></div>
+
+
+M0.00,49.98 C145.31,155.22 349.20,-50.00 500.00,49.98 L500.00,115.00 L0.00,115.00 Z
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+
+
+
+M0.00,49.98 C145.31,155.22 349.20,-50.00 500.00,49.98 L500.00,130.00 L0.00,130.00 Z
+M0.00,49.98 C145.31,155.22 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z
+
+M0.00,49.98 C150.00,150.00 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z
+
+
+
+
+
+M0.00,49.98 C150.00,150.00 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z
+
+
+
+<div style="heigth: 150px; overflow:hidden;"><svg viewBox="0 0 500 150"preserveAspectRatio="none"style="heigth: 100%; width: 100%;"> <path d="
+M0.00,49.98 C150.00,150.00 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z
+"style="stroke:none;fill:#08f;"></path></svg></div>
+
+
+
+<div style="heigth: 150px; overflow:hidden;"><svg viewBox="0 0 500 150"preserveAspectRatio="none"style="heigth: 100%; width: 100%;"> <path d="
+M0.00,49.98 C266.08,172.00 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z
+"style="stroke:none;fill:#08f;"></path></svg></div>
+
+
+
+
+M0.00,49.98 C149260,340.20 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,170.00 Z
+
+M0.00,49.98 C160.55,9.17 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z
+
+
+
+<div style="heigth: 150px; overflow:hidden;"><svg viewBox="0 0 500 150"preserveAspectRatio="none"style="heigth: 100%; width: 100%;"> <path d="
+M0.00,49.98 C149260,340.20 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z
+"style="stroke:none;fill:#08f;"></path></svg></div>
+
+
+<div style="heigth: 150px; overflow:hidden;"><svg viewBox="0 0 500 150"preserveAspectRatio="none"style="heigth: 100%; width: 100%;"> <path d="
+M0.00,49.98 C160.55,9.17 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z
+"style="stroke:none;fill:#08f;"></path></svg></div>
+
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Open+sans:300,400,700,800&display=swap"rel="stylesheet">
+
+
+
+
+
+
+
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Oasis de Sueños</title>
+    <link rel="shortcut icon" href="img/logo-Oasis.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/estilos.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+sans:300,400,700,800&display=swap"rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="#">inicio</a>
+            <a href="#">Quienes somos</a>
+            <a href="#">Portafolio</a>
+            <a href="#">proyectos</a>
+            <a href="#">Contacto</a>
+            <a href="#">....</a>
+        </nav>
+            <section class="textos-header">
+                <h1>Atrevete a soñar de la mano de oasis de sueños</h1>
+                <h2>una corporacion que te alludara a hacer tus sueños realidad</h2>
+            </section>    
+            <div style="height: 150px; overflow:hidden;"><svg viewBox="0 0 500 150"preserveAspectRatio="none"style="heigth: 100%; width: 100%;"> <path d=" M0.00,49.98 C150.00,150.00 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z "style="stroke:none;fill:#08f;"></path></svg>
+            </div>
+    </header>
+
+    <main>
+        <section class="contenedor sobre-nosotros ">
+        <H2 class="title">nuestro portafolio</H2>
+            <div class="contenedor-sobre-nostros">
+                <img src="img/jero.jpg" alt="" class="imagen-about-us">
+                <div class="contenido-textos">
+                    <h3><span>1 productos y servicios con un coste sin igual</span></h3>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi mollitia quia temporibus obcaecati, tenetur vel fuga perspiciatis quaerat et, rem provident pariatur deserunt facilis repellat accusamus enim veniam id nesciunt.</p>
+                    <br><br><br>
+                    <h3><span>2</span></h3>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos, illo harum. Rem deserunt corrupti vitae repudiandae corporis perferendis, consequuntur amet repellat eum nobis velit. Repellendus delectus dolorum obcaecati rem molestiae?</p>
+        
+        <section class="portafolio">
+            <div class="contenedor">
+                <h2 class="title">portafolio</h2>
+                <div class="galeria port">
+                    <div class="imagen-port">
+                        <img src="img/work1.jpg" alt="">
+                            <div class="class hover">
+                        <img src="img/unido-icon.png" alt="">
+                        <p>nuestro trabajo</p>
+                    </div>                                
+                    </div>
+                </div>
+                <div class="galeria port">
+                    <div class="imagen-port">
+                        <img src="img/work2.jpg" alt="">
+                            <div class="class hover">
+                        <img src="img/unido-icon.png" alt="">
+                        <p>nuestro trabajo</p>
+                    </div>                                
+                    </div>
+                </div>
+                <div class="galeria port">
+                    <div class="imagen-port">
+                        <img src="img/work3.jpg" alt="">
+                            <div class="class hover">
+                        <img src="img/unido-icon.png" alt="">
+                        <p>nuestro trabajo</p>
+                    </div>                                
+                    </div>
+                </div>
+                <div class="galeria port">
+                    <div class="imagen-port">
+                        <img src="img/work4.jpg" alt="">
+                            <div class="class hover">
+                        <img src="img/unido-icon.png" alt="">
+                        <p>nuestro trabajo</p>
+                    </div>                                
+                    </div>
+                </div>
+                <div class="galeria port">
+                    <div class="imagen-port">
+                        <img src="img/work5.jpg" alt="">
+                            <div class="class hover">
+                        <img src="img/unido-icon.png" alt="">
+                        <p>nuestro trabajo</p>
+                    </div>                                
+                    </div>
+                </div>
+                <div class="galeria port">
+                    <div class="imagen-port">
+                        <img src="img/work6.jpg" alt="">
+                            <div class="class hover">
+                        <img src="img/unido-icon.png" alt="">
+                        <p>nuestro trabajo</p>
+                    </div>                                
+                    </div>
+                </div>
+                </div>
+        </section>
+        <section class="clientes contenedor">
+            <h2 class="clas tit">lo que dicen nuestros clientes</h2>
+                <div class="card">
+                    <div class="class card">
+                        <img src="img/face1.jpg" alt="">
+                        <div class="contenido texto card">
+                            <h4>name</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ipsa.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="clientes contenedor">
+            <h2 class="clas tit">lo que dicen nuestros clientes</h2>
+                <div class="card">
+                    <div class="class card">
+                        <img src="img/face2.jpg" alt="">
+                        <div class="contenido texto card">
+                            <h4>name</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ipsa.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="about services">
+            <div class="conte">
+                <h2 class="title">portafolio de servicios</h2>
+                <div class="servicio cont">
+                    <div class="servicio ind">
+                        <img src="img/Agro.A.png" alt="">
+                        <h3 class="name"></h3>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium, non?</p>
+                    </div>
+                    <div class="servicio ind">
+                        <img src="img/Bienes.R.png" alt="">
+                        <h3 class="name"></h3>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium, non?</p>
+                    </div>
+                    <div class="servicio ind">
+                        <img src="img/Edu.F.png" alt="">
+                        <h3 class="name"></h3>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium, non?</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="contenedor footer">
+            <div class="content-foo">
+                <h4>phone</h4>
+                <p>3230000</p>
+            </div>            
+            <div class="content-foo">
+                <h4>Email</h4>
+                <p>@</p>
+            </div>            
+            <div class="content-foo">
+                <h4>location</h4>
+                <p></p>
+            </div>
+        </div>
+        <h2><div class="title-final">&copy;Oasis de Sueños - oasisdesuenos@gmail.com </div></h2>
+    </footer>
+
+</body>
+</html>
+
+
+<div></div>
+
+
+
+
+#a3d8ce59
+
+:#a3d8ce95
+
+
+hsla(273, 94%, 32%, 0.452);
+
+
