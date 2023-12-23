@@ -38,6 +38,10 @@ header{
     position: relative;
 }
 
+.container-logo > h1{
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+/* 
 nav{
     text-align: right;
     padding: 3opx 50px 0 0;
@@ -52,8 +56,10 @@ nav > a{
 }
 nav > a:hover{
     text-decoration:underline;
+} */
+nav > a{
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
-
 header .textos-header{
     color: antiquewhite;
     display: flex;
@@ -66,14 +72,14 @@ header .textos-header{
 }
 
 .textos-header h1{
-    font-size: 50px;
     color: aliceblue;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .textos-header h2{
-    font-size: 30px;
-    font-weight: 300;
+    /* font-weight: 30 */
     color: azure;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
 }
 
 .wave{
@@ -81,6 +87,23 @@ header .textos-header{
     bottom: 0;
     width: 100%;
 }
+
+
+/* Nuestros Pilares */
+.image-pilar-uno{
+    margin-top: 220px;
+    margin-left: -20px;
+}
+/* container form  */
+.container-form{
+    float: right;
+}
+
+
+.image{
+    margin-bottom: 300px;
+}
+
 
 /* About us */
 
@@ -90,6 +113,7 @@ header .textos-header{
 }
 .imagen-abouts-us{
     width: 48%;
+    height: 600px;
 }
 
 .sobre-nosotros .contenido-textos{
@@ -117,11 +141,11 @@ header .textos-header{
     font-weight: 300;
     text-align: justify;
 }
-
+/* 
 /* Galeria */
 
 .portafolio{
-    background-color: #f2f2f2;
+    /* background-color: #f2f2f2; */
 }
 
 .galeria-port{
@@ -170,7 +194,7 @@ header .textos-header{
 }
 .imagen-port:hover .hover-galeria{
     transform: scale(1)
-}
+} */
 /* Clients*/
 .cards{
     display: flex;
@@ -273,3 +297,84 @@ footer{
     margin: 20px 0 0 0;
     color: #9e9797;
 }
+
+
+
+
+
+
+/* nuestros clientes  */
+/*  */
+
+.contenedor-img{
+    background-color: white;
+    display: flex;
+    height: 20rem;
+    gap: 1rem;
+    width: 80%;
+    margin: 40px auto;
+}
+
+.img1{
+    background-image: url(../img/bg-portada.jpg);
+}
+.img2{
+    background-image: url(../img/bienes-raices.jpg);
+}
+.img3{
+    background-image: url(../img/equipo.jpg);
+}
+.img4{
+    background-image: url(../img/bosque.jpg);
+}
+.img5{
+    background-image: url(../img/campo-sol.jpg);
+}
+
+
+.img6{
+    background-image: url(../img/bienes-raices.jpg);
+}
+.img7{
+    background-image: url(../img/bosque.jpg);
+}
+.img8{
+    background-image: url(../img/bg-portada.jpg);
+}
+.img9{
+    background-image: url(../img/campo-sol.jpg);
+}
+.img10{
+    background-image: url(../img/bienes-raices.jpg);
+}
+
+
+.contenedor-img > div{
+    flex: 1;
+    border-radius: 1rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    transition: all .8s cubic-bezier(.25, .4, .45, 1.4);
+} 
+
+.contenedor-img > div:hover{
+    flex: 5;
+    filter: saturate(200%);
+    cursor: pointer;
+}
+
+.img-container{
+    /* padding: 10px; */
+    width: 20%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)); /* Ajusta el valor de opacidad según tus preferencias */;
+    opacity: 0;
+    overflow: hidden;
+    display: none;
+}
+.contenedor-img > div:hover .img-container{
+    opacity: 1;
+    width: 70%;
+    display: block;
+}
+
